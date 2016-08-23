@@ -1,10 +1,11 @@
-NoFuserEx
-========
+# NoFuserEx
 NoFuserEx is an open-source deobfuscator for ConfuserEx.
+License: MIT.
 
-Credits
---------
-0xd4d - dnlib.
-yck1509 - some code.
-Alcatraz3222 because yes :P
-Me - creator.
+## Usage
+Just drag and drop any file(s) onto NoFuserEx.exe.
+
+## Supported protections
+* Compressor
+* Anti-tamper
+* Working on more
