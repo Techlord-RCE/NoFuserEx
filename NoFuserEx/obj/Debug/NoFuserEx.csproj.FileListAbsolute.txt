@@ -1,0 +1,9 @@
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\bin\Debug\NoFuserEx.exe.config
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\bin\Debug\NoFuserEx.exe
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\bin\Debug\NoFuserEx.pdb
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\obj\Debug\NoFuserEx.exe
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\obj\Debug\NoFuserEx.pdb
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\bin\Debug\dnlib.dll
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\bin\Debug\dnlib.pdb
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\bin\Debug\dnlib.xml
+C:\Users\DaviCore\Documents\Visual Studio 2015\Projects\NoFuserEx\NoFuserEx\obj\Debug\NoFuserEx.csprojResolveAssemblyReference.cache
